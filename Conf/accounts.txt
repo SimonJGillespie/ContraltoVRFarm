@@ -1,0 +1,7 @@
+# accounts.txt:
+#
+# The format for a user account is:
+# <username>:<password hash>:[Admin|User]:<Full Name>:<home directory>
+#
+ruthy:UVPklQE/fG6MqikkhT0VfxHHYuo=:User:ruthyi:ruth
+simony:UVPklQE/fG6MqikkhT0VfxHHYuo=:User:simonyg:simon

@@ -1,0 +1,8 @@
+﻿# accounts.txt:
+#
+#
+# The format for a user account is:
+# <username>:<password hash>:[Admin|User]:<Full Name>:<home directory>
+#
+
+sample::User:This is a Sample:sample
